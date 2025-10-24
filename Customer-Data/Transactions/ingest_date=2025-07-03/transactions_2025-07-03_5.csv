@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+2a18b433-9b58-492b-907c-3181535d252e,140696,2025-07-03,97.29,card,android

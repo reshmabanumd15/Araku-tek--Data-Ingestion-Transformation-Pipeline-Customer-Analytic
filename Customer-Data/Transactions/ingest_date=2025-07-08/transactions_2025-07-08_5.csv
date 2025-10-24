@@ -1,0 +1,3 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+f0f3f587-1ef5-4cf0-b0d1-e3c3e765c9a3,125246,2025-07-08,282.64,applepay,android
+9da50cf6-394a-4bd9-9c1a-8aae099d67f7,112282,2025-07-08,418.64,paypal,ios

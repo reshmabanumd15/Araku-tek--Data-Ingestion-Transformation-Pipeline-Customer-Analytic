@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+f7830e31-528f-49a3-a6dd-392557d9a5c1,138146,2025-07-09,432.56,paypal,web
+46f72bbd-72e3-4d33-9f7b-1a6114bf9b72,141769,2025-07-09,313.67,applepay,android
+8d6de3bc-155e-4bdd-bc58-48ead7ed3787,114671,2025-07-09,434.42,card,web

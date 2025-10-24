@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+84e1ce94-ced5-474c-b496-8889b14192b9,138356,2025-07-21,150.04,cash,store

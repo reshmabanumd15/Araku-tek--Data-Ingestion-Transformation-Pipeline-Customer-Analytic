@@ -1,0 +1,3 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+10aa13e1-a749-453a-b5c8-0b0064fe9b92,139589,2025-07-12,5.61,cash,android
+9d62f1ec-6be8-4d37-9ac5-223a866f51d6,114113,2025-07-12,18.74,card,store

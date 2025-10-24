@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,amount,payment_method,channel
+19409831-95ba-4d9e-a482-4613e682eab0,120085,2025-07-02,80.43,applepay,ios
+e8e521db-9f46-4b63-8995-5aea097e874f,135869,2025-07-02,183.23,card,ios
+4b539f66-bfe7-4fce-80ee-4f76a9161662,107184,2025-07-02,247.36,applepay,ios
