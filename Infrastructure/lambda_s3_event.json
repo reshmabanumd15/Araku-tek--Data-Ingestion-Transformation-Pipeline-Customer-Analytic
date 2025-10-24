@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "detail-type": "Object Created",
+  "source": "aws.s3",
+  "detail": {
+    "bucket": "your-bucket",
+    "object": {
+      "key": "raw/customer/ingest_date=2025-10-23/customers_2025-10-23_1.csv"
+    }
+  }
+}

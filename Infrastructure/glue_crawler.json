@@ -1,0 +1,20 @@
+{
+  "Name": "customer-processed-crawler",
+  "Role": "AWSGlueServiceRoleDefault",
+  "DatabaseName": "customer_analytics_pro",
+  "Targets": {
+    "S3Targets": [
+      {
+        "Path": "s3://your-bucket/processed/customer/"
+      },
+      {
+        "Path": "s3://your-bucket/processed/transactions/"
+      }
+    ]
+  },
+  "Schedule": "cron(0 3 * * ? *)",
+  "SchemaChangePolicy": {
+    "UpdateBehavior": "UPDATE_IN_DATABASE",
+    "DeleteBehavior": "DEPRECATE_IN_DATABASE"
+  }
+}
