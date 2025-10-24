@@ -1,4 +1,4 @@
-# Data Ingestion & Transformation Pipeline – Customer Analytics (Pro Edition)
+# Data Ingestion & Transformation Pipeline – Customer Analytics
 
 This repository is a **production-style** scaffold for an analytics pipeline with realistic volume and moving parts.
 
