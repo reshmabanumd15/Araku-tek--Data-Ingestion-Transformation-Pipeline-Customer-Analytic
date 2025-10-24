@@ -14,5 +14,3 @@ This repository is a **production-style** scaffold for an analytics pipeline wit
 - **CI** via GitHub Actions (lint + tests)
 - **Terraform stubs** to provision baseline AWS resources
 - **Docs**: setup, monitoring, incremental refresh (PBI/Athena), runbooks
-
-> ⚠️ Names/roles/ARNs are placeholders—replace with your own before deploy.
